@@ -4,7 +4,7 @@ I'm a passionate **BTech CSE student** and an enthusiastic Java developer, curre
 
 ## 🚀 About Me  
 - 👩‍💻 **Student & Intern**  
-- 💡 **Java Developer**  
+- 💡 **Full Stack Developer**  
 - 🌐 **Web Developer** *(React.js, Next.js)*  
 - 🎯 **Actively learning full stack development*  
 - 🤩 **Passionate about coding, problem solving, and building projects*
