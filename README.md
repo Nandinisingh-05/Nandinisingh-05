@@ -13,7 +13,8 @@ I'm a passionate **BTech CSE student** and an enthusiastic Java developer, curre
 I’m currently working on a new project that I’m super proud of! I love bringing ideas to life through code and always strive to learn something new every day.
 
 ## 🌟 Favorite Projects  
-- [COUNTER-APP](https://github.com/Nandinisingh-05/COUNTER-APP) *(current favorite!)*
+- CuraJit (https://github.com/Nandinisingh-05/Curajit)*(current favorite!)*
+-  [COUNTER-APP](https://github.com/Nandinisingh-05/COUNTER-APP) 
 - [Food-ordering-website](https://github.com/Nandinisingh-05/Food-ordering-website)
 - [TO-DO-APP](https://github.com/Nandinisingh-05/TO-DO-APP)
 - [Leetcode-solutions-java](https://github.com/Nandinisingh-05/Leetcode-solutions-java)
