@@ -28,6 +28,7 @@ I’m currently working on a new project that I’m super proud of! I love bring
 ## 📫 Reach Me  
 Feel free to connect or collaborate!  
 **Email:** nandinisingh17265@gmail.com
+-officialnandinisingh0507@gmail.com
 
 ---
 
